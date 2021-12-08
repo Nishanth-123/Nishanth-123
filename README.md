@@ -8,13 +8,13 @@ I'm Nishanth, a 20 years old android developer from India.
 
 * :office: Android Developer at [@risor](https://www.risor.com)
 
-* 🌱 Love to explore things in technology. 🤣
+* 🌱 Love to explore things in technology and blog the things I learn on my way. 🤣
 
 * 👯 I look to collaborate with other passionate individuals
 
 * 🥅 ```Goals:``` Contribute more to Open Source projects and create impactful Android applications.
 
-* ⚡ I love to play cricket, badminton and love cooking.
+* ⚡ I love to play cricket, badminton and reading articles.
 
 * :birthday: Wish me on ```13th October```
 

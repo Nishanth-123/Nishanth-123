@@ -1,5 +1,4 @@
-![Screenshot](https://media-exp1.licdn.com/dms/image/C5616AQFV7S6-YssLZg/profile-displaybackgroundimage-shrink_350_1400/0/1627703020800?e=1643241600&v=beta&t=oS2kPpJQM3MpWwVZvlXhklNywYNloNKW2qzfAWJFiTs
-)
+![Screenshot](https://www.linkedin.com/in/nishanthmekala/overlay/background-image/)
 <h1> Hey! 👋</h1>
 
 I'm Nishanth, a 20 years old android developer from India.

@@ -1,11 +1,11 @@
 ![Cover Photo](https://media-exp1.licdn.com/dms/image/C5616AQEabE4JH1aloQ/profile-displaybackgroundimage-shrink_350_1400/0/1640846305424?e=1661385600&v=beta&t=TZhKd3_UNwi0nxf_VRo3McbWRvuk0V11ZfdT-hM3htc)
 <h1> Hey! 👋</h1>
 
-I'm Nishanth, a 20 years old android developer from India.
+I'm Nishanth, a Software Engineer from India.
 
 * :school: B-Tech final year student at [@nit allahabad](http://mnnit.ac.in/)
 
-* :office: Android Developer at [@risor](https://www.risor.com)
+* :office: Software Engineer at [@risor](https://www.risor.com)
 
 * 🌱 Love to explore things in technology and blog the things I learn on my way. 🤣
 
@@ -32,7 +32,7 @@ I'm Nishanth, a 20 years old android developer from India.
 <img  alt="Github" width="30px" src="https://pbs.twimg.com/profile_images/1414990564408262661/r6YemvF9_400x400.jpg"/>
 
 
-<h1> Connect with me on</h1>
+<!-- <h1> Connect with me on</h1>
 <img  align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"/>
 <img  align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 <img  align="left" alt="facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
@@ -45,3 +45,4 @@ I'm Nishanth, a 20 years old android developer from India.
 <img  align="left" alt="codechef" src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white"/>
 <img  align="left" alt="leetcode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black/>  
 
+ -->

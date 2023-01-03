@@ -24,7 +24,7 @@
 <h1 align="center" >Connect with Me</h1>
 <div align="center" >
 
-[![Github Badge](https://img.shields.io/github/followers/KhubaibJamal?label=GitHub&logo=GitHub&style=for-the-badge&color=red)](https://github.com/nishanth-123?tab=followers)&nbsp;
+[![Github Badge](https://img.shields.io/github/followers/nishanth-123?label=GitHub&logo=GitHub&style=for-the-badge&color=red)](https://github.com/nishanth-123?tab=followers)&nbsp;
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishanthmekala/)
 [![Facebook Badge](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nishanth.mekala.7/)
   [![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nishanth.mekala.7/)

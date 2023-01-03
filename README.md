@@ -65,7 +65,9 @@
   </a>
   <img src="https://github-readme-stats.vercel.app/api?username=nishanth-123&theme=gruvbox&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" width="420" height="200"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanth-123&layout=compact&theme=gruvbox&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" width="350" height="200" />
+ <!--
   <img alt="Nishanth Mekala's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nishanth-123l&theme=gruvbox&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25"/>
+-->
 </p>
 
 <h1 align="Center">Visitor's Count & Followers</h1>

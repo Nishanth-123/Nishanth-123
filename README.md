@@ -1,48 +1,78 @@
-![Cover Photo](https://media-exp1.licdn.com/dms/image/C5616AQEabE4JH1aloQ/profile-displaybackgroundimage-shrink_350_1400/0/1640846305424?e=1661385600&v=beta&t=TZhKd3_UNwi0nxf_VRo3McbWRvuk0V11ZfdT-hM3htc)
-<h1> Hey! 👋</h1>
+ <h1 align=center >Hi there, I'm Nishanth Mekala <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"></h1>
 
-I'm Nishanth, a Software Engineer from India.
+<h3 align="center">A passionate Software Engineer from India</h3>
 
-* :school: B-Tech final year student at [@nit allahabad](http://mnnit.ac.in/)
-
-* :office: Software Engineer at [@risor](https://www.risor.com)
-
-* 🌱 Love to explore things in technology and blog the things I learn on my way. 🤣
-
-* 👯 I look to collaborate with other passionate individuals
-
-* 🥅 ```Goals:``` Contribute more to Open Source projects and create impactful Android applications.
-
-* ⚡ I love to play cricket, badminton and reading articles.
-
-* :birthday: Wish me on ```13th October```
-
-<h1> Technology Stack</h1>
-<img align="left" alt="C" width="30px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" />
-<img align="left" alt="C++" width="30px" src="https://e7.pngegg.com/pngimages/46/626/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template.png" />
-<img align="left" alt="HTML" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Bootstrap" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
-<img align="left" alt="JS" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="Kotlin" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
-<img align="left" alt="Android Studio" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
-<img align="left" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="Firebase" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
-<img  alt="Github" width="30px" src="https://pbs.twimg.com/profile_images/1414990564408262661/r6YemvF9_400x400.jpg"/>
+<img align="right" alt="Coding" width = "500"  src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif"/>
 
 
-<!-- <h1> Connect with me on</h1>
-<img  align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"/>
-<img  align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-<img  align="left" alt="facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-<img  align="left" alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-<img  align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-<img  align="left" alt="quora" src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white"/>
-<img  align="left" alt="pinterest" src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white"/>
-<img  align="left" alt="hackerrank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
-<img  align="left" alt="hackerearth" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue"/>
-<img  align="left" alt="codechef" src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white"/>
-<img  align="left" alt="leetcode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black/>  
+- 🔭 I’m currently working on **Flutter Project**
 
- -->
+- 🌱 I’m currently learning **Flutter**
+
+- 👯 I’m looking to collaborate on **Open Source Project**
+
+- 💻 The tech I'm interested:
+    - Flutter.
+    - Backend Development
+    - Cloud Computing.
+    - Blockchain.
+
+- 💬 Ask me about **Flutter, AWS, Android, Backend Development, Firebase, API's**
+
+- 📫 How to reach me **nishanth39.professional@gmail.com**
+
+<h1 align="center" >Connect with Me</h1>
+<div align="center" >
+
+[![Github Badge](https://img.shields.io/github/followers/KhubaibJamal?label=GitHub&logo=GitHub&style=for-the-badge&color=red)](https://github.com/nishanth-123?tab=followers)&nbsp;
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishanthmekala/)
+[![Facebook Badge](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nishanth.mekala.7/)
+  [![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nishanth.mekala.7/)
+</div>
+
+<h1 align="center"> Languages and Tools</h1>
+<div align="center">
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+</a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+</a>
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
+</a>
+ <a href="https://firebase.google.com/?gclid=CjwKCAjw7p6aBhBiEiwA83fGuuh-OAqFYblOyFz-sd14L3YKVlDJmOFx257naliCGEQ-XISwcSOlGRoCtlYQAvD_BwE&gclsrc=aw.ds" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
+</a>
+<a href="https://dart.dev/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
+</a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" width="40" height="40"/>
+</a>
+<a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
+<img src="https://avatars.githubusercontent.com/u/32689599" alt="Android Studio" width="40" height="40"/>
+</a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="40" height="40"/>
+</a>
+</div>
+
+<h1 align="Center">GitHub Statistics</h1>
+<p align="center">
+  <a href="https://github.com/KhubaibJamal/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Khubaib Jamal streak" src="https://github-readme-streak-stats.herokuapp.com/?user=KhubaibJamal&theme=dark&background=09131B&date_format=M%20j%5B%2C%20Y%5D&Bhide_border=false%22"/>
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=nishanth-123&theme=gruvbox&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" width="420" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanth-123&layout=compact&theme=gruvbox&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" width="350" height="200" />
+  <img alt="Nishanth Mekala's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nishanth-123l&theme=gruvbox&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25"/>
+</p>
+
+<h1 align="Center">Visitor's Count & Followers</h1>
+<div align ="Center">
+<a> <img src="https://komarev.com/ghpvc/?username=nishanth-123&style=for-the-badge&color=red&label=Profile+Views"
+    alt="Nishanth" /> 
+</a><a href="https://github.com/KhubaibJamal?tab=followers"><img src="https://img.shields.io/github/followers/nishanth-123?label=Followers&style=for-the-badge&color=red" alt="GitHub Badge">
+</a>
+</div>
+

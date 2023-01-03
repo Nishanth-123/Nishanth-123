@@ -60,8 +60,8 @@
 
 <h1 align="Center">GitHub Statistics</h1>
 <p align="center">
-  <a href="https://github.com/KhubaibJamal/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Khubaib Jamal streak" src="https://github-readme-streak-stats.herokuapp.com/?user=KhubaibJamal&theme=dark&background=09131B&date_format=M%20j%5B%2C%20Y%5D&Bhide_border=false%22"/>
+  <a href="https://github.com/nishanth-123/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nishanth Mekala streak" src="https://github-readme-streak-stats.herokuapp.com/?user=nishanth-123&theme=dark&background=09131B&date_format=M%20j%5B%2C%20Y%5D&Bhide_border=false%22"/>
   </a>
   <img src="https://github-readme-stats.vercel.app/api?username=nishanth-123&theme=gruvbox&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" width="420" height="200"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanth-123&layout=compact&theme=gruvbox&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" width="350" height="200" />

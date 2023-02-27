@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate on **Open Source Project**
 
 - 💻 The tech I'm interested:
-    - Flutter.
+    - Android & Flutter.
     - Backend Development
     - Cloud Computing.
     - Blockchain.

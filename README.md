@@ -5,19 +5,20 @@
 <img align="right" alt="Coding" width = "500"  src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif"/>
 
 
-- 🔭 I’m currently working on **Flutter Project**
+- 🔭 I’m currently working on **Java**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **System Design**
 
 - 👯 I’m looking to collaborate on **Open Source Project**
 
 - 💻 The tech I'm interested:
     - Android & Flutter.
+    - Java.
     - Backend Development
     - Cloud Computing.
     - Blockchain.
 
-- 💬 Ask me about **Flutter, AWS, Android, Backend Development, Firebase, API's**
+- 💬 Ask me about **Flutter, AWS, Android, Java, Backend Development, AWS, Firebase, API's**
 
 - 📫 How to reach me **nishanth39.professional@gmail.com**
 

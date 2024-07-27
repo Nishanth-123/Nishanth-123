@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width = "500"  src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif"/>
 
 
-- 🔭 I’m currently work on **Javascript, Java & Full-stack Development**
+- 🔭 I currently work on **Javascript, Java & Full-stack Development**
 
 - 🌱 I’m currently learning **System Design**
 

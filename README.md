@@ -30,6 +30,7 @@
   [![Instagram Badge](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nishanth.mekala.7/)
 </div>
 
+<!--
 <h1 align="center"> Languages and Tools</h1>
 <div align="center">
  <a href="https://skillicons.dev">
@@ -60,6 +61,7 @@
 <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="40" height="40"/>
 </a>
 </div>
+-->
 
 <h1 align="Center">GitHub Statistics</h1>
 <p align="center">
